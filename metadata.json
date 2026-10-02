@@ -1,0 +1,6 @@
+{
+  "name": "AuraStream",
+  "description": "Private ad-free music streaming platform with instant YouTube audio extraction, search, local file library, custom playlists, equalizer, and visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
